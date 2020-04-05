@@ -1,0 +1,17 @@
+<Paint>
+<Shape>
+ID : class eg.edu.alexu.csd.oop.draw.RoundRectangle
+<Properties>
+<ArcWidth : 0.0>
+<ArcLength : 0.0>
+<Length : 0.0>
+<Width : 0.0>
+</Properties>
+</Shape>
+<Shape>
+ID : class eg.edu.alexu.csd.oop.test.DummyShape
+<Color>
+<Color : java.awt.Color[r=255,g=0,b=0]>
+</Color>
+</Shape>
+</Paint>

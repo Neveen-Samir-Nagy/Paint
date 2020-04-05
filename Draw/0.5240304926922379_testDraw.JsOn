@@ -1,0 +1,15 @@
+{
+"shape": {
+"ID" : "class eg.edu.alexu.csd.oop.draw.RoundRectangle",
+"Properties": {
+"ArcWidth" : "0.0",
+"ArcLength" : "0.0",
+"Length" : "0.0"
+"Width" : "0.0",
+},
+},
+"shape": {
+"ID" : "class eg.edu.alexu.csd.oop.test.DummyShape",
+"color" : "java.awt.Color[r=255,g=0,b=0]",
+},
+}
